@@ -1,4 +1,5 @@
 def reverse_each_word(word)
 end 
 
-def 
+def reverse_each_word(word)
+end 

@@ -1,6 +1,6 @@
 def reverse_each_word(word)
   word = []
   word.join([word])
-  word.reverse
+  word.reverse()
   end 
 end 

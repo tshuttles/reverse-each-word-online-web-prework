@@ -1,5 +1,5 @@
 def reverse_each_word(word)
   word = []
-  word.each do 
+  word.join = word 
   end 
 end 
